@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: Foto_prof.jpg
+  image: prof_pic_max.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Old Road Campus Research Building </p>
