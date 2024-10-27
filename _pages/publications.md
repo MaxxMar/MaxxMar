@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Selected Publications
-description: Publications by categories in reversed chronological order. For the full list, please check the [Google Scholar profile](https://scholar.google.it/citations?hl=it&user=ojS-Lk8AAAAJ&view_op=list_works).
+description: Publications by categories in reversed chronological order. For the full list, please check the Google Scholar profile.
 nav: true
 nav_order: 2
 ---
