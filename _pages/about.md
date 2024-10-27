@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Materials Engineer specialised in Bioelectronics and Biomedical Engineering
 
