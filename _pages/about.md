@@ -9,9 +9,7 @@ profile:
   image: prof_pic_max.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Old Road Campus Research Building </p>
-    <p> Institute of Biomedical Engineering </p>
-    <p> OX3 7DQ, Oxford, UK </p>
+    <p>  </p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
